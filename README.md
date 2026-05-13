@@ -51,6 +51,8 @@ The dataset includes information such as:
 - Posting date
 - Skills and technologies
 
+![Dataset](images/Dataset.png)
+
 The dataset covers multiple technical roles, including:
 - Data Analyst
 - Data Scientist
