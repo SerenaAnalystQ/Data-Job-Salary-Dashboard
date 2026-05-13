@@ -295,17 +295,3 @@ The highlighting mechanism enhances interpretability while maintaining overall d
 
 
 
-
-
-# 4. Conclusion
-
-This project demonstrates how Microsoft Excel can be used to build an interactive business intelligence dashboard using real-world job market data.
-
-The dashboard combines:
-- Data analysis
-- Interactive filtering
-- Dynamic calculations
-- Data visualization
-
-to transform raw datasets into clear and actionable insights.
-
