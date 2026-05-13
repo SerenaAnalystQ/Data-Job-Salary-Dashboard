@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard designed to analyze global IT and data-related job salaries by country, job title, and employment type.
 
-![Dashboard Review](images/DashboardReview.gif)
+![Dashboard_Review](images/Dashboard_Review.gif)
 **Link to the dashboard**: **[Data_Job_Salary_Dashboard.xlsx](Data_Job_Salary_Dashboard.xlsx)**.
 ## 1. Summary
 
@@ -15,6 +15,7 @@ The dashboard dynamically updates:
 - Top job posting platform
 - Total job count
 - Salary comparison charts
+<img src="images/Salary_Compare_Chart.png" width="700">
 - Geographic salary distribution
 
 ## Excel Features Used
