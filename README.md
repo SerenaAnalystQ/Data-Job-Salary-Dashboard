@@ -17,6 +17,7 @@ The dashboard dynamically updates:
 - Salary comparison charts
 <img src="images/Salary_Compare_Chart.png" width="700">
 - Geographic job distribution
+<img src="images/Geographic_job.png" width="700">
 
 ## Excel Features Used
 
@@ -52,7 +53,8 @@ The dataset includes information such as:
 - Posting date
 - Skills and technologies
 
-![Dataset](images/Dataset.png)
+<img src="images/Dataset.png" width="800">
+
 
 The dataset covers multiple technical roles, including:
 - Data Analyst
@@ -91,10 +93,11 @@ The dashboard calculates median salaries based on selected conditions using Exce
 )
 ```
 
-This formula performs:
-- Multi-condition filtering
-- Dynamic salary aggregation
-- Median salary calculation
+- 🔎 **Multi-Criteria Filtering:** Filters data by job title, country, and schedule type while excluding blank salary values.
+- 📊 **Array Formula:** Uses the `MEDIAN()` function combined with a nested `IF()` statement to analyze an array of values.
+- 🎯 **Tailored Insights:** Returns specific salary insights based on selected job roles, regions, and employment types.
+- 🧮 **Formula Purpose:** Calculates the median salary based on the selected filters.
+
 
 ## 3.2 Count of Job Schedule Type
 
