@@ -77,7 +77,7 @@ The dataset was used to:
 # 3. Dashboard Operations
 ## 3.1 Salary Analysis
 
-The dashboard calculates median salaries based on selected conditions using Excel formulas.
+Calculates median salaries based on selected conditions using Excel formulas.
 
 ### Example Formula
 
@@ -98,7 +98,10 @@ The dashboard calculates median salaries based on selected conditions using Exce
 - 🎯 **Tailored Insights:** Returns specific salary insights based on selected job roles, regions, and employment types.
 - 🧮 **Formula Purpose:** Calculates the median salary based on the selected filters.
 
+Outcome:
 
+<img src="images/Job_Salary.png" width="500">
+<img src="images/Salary_Compare_Chart.png" width="500">
 ## 3.2 Count of Job Schedule Type
 
 ```excel
@@ -112,7 +115,9 @@ The dashboard calculates median salaries based on selected conditions using Exce
 - 🔍 **Unique List Generation:** This formula uses the `FILTER()` function to clean the data by excluding entries that contain multiple schedule types (such as those joined by "and" or commas) and by removing zero values.
 - 🔢 **Formula Purpose:** The resulting list provides a set of valid job schedule types, which is then used as the basis for further analysis and counting.
 
+Outcome:
 
+<img src="images/Type_Salary.png" width="500">
 
 # 4. Conclusion
 
