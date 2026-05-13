@@ -16,7 +16,7 @@ The dashboard dynamically updates:
 - Total job count
 - Salary comparison charts
 <img src="images/Salary_Compare_Chart.png" width="700">
-- Geographic salary distribution
+- Geographic job distribution
 
 ## Excel Features Used
 
